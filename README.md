@@ -1,5 +1,5 @@
-### Hi there, It's Nathachai 👋
-aka exzenous
+### Hi there, It's Nathachai
+(aka exzenous)
 
 Thanks for checking out my GitHub! ✌😄✌
 
