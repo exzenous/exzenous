@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, It's Nathachai 👋
+aka exzenous
+
+Thanks for checking out my GitHub! ✌😄✌
 
 <!--
 **exzenous/exzenous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
