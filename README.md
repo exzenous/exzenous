@@ -6,10 +6,16 @@
 
 ### Thanks for checking out my GitHub!
 
-![exzenous's GitHub stats](https://github-readme-stats.vercel.app/api?username=exzenous)<!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
-
+<!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
+<!-- Thanks to https://github.com/IgnusG and https://github.com/EYHN/ -->
+<div align="center">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exzenous&show_icons=true&border_radius=15&hide_title=true" />
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exzenous&layout=compact&border_radius=15" />
+</div>
+  
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
+- ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
 
 <!--
