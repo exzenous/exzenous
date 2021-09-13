@@ -1,5 +1,9 @@
-### Hi there, It's Nathachai
+<div>
+  <h2>Hi there, It's Nathachai</h2>
+  <h2 align="center">✌😄✌</h2>
 (aka exzenous)
+</div>
+
 
 Thanks for checking out my GitHub! ✌😄✌
 
