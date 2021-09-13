@@ -1,7 +1,5 @@
 <div>
-  <h2>Hi there, It's Nathachai</h2>
-  <h2 align="center">✌😄✌</h2>
-(aka exzenous)
+  <h2>Hi there, It's Nathachai</h2><br><h2 align="center">✌😄✌</h2><br><h4>(aka exzenous)</h4>
 </div>
 
 
