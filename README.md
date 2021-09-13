@@ -7,22 +7,38 @@
 ### Thanks for checking out my GitHub!
 
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
-<!-- Thanks to https://github.com/IgnusG and https://github.com/EYHN/ -->
+<!-- Thanks to https://github.com/IgnusG and https://github.com/EYHN/ for the inspiration-->
+
 <div align="center">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exzenous&show_icons=true&border_radius=15&hide_title=true" />
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exzenous&layout=compact&border_radius=15" />
 </div>
+<br>
+<div align="center">
   
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
+[![](https://img.shields.io/badge/macOS-Monterey-F449B7?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey-preview/)
+[![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linuxfoundation.org/)
+
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Python3-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=ffffff)](https://swift.org/)
+
+</div>
+
+- 🎯 Goals: Great in Cloud Architecting and DevOps, Doing Well in App/Web Development
+- ⚡ Fun fact: I really like Japanese culture.
+- ♟️ Hobbies: Photography & Videography, Vintage Mac Collecting, Designing (Art-related), Cosplay
+
 
 <!--
 Here are some ideas to get you started:
+- 🌱 I’m currently interested in ...
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
+- 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
