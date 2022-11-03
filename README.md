@@ -27,7 +27,7 @@
 - 🎯 Goals: Great in Cloud Architecting and DevOps, Doing Well in App/Web Development
 - ⚡ Fun fact: I really like Japanese culture.
 - ♟️ Hobbies: Photography & Videography, Vintage Mac Collecting, Designing (Art-related), Cosplay
-
+- 👍 [Support Me on Ko-fi](https://ko-fi.com/exzenous)
 
 <!--
 Here are some ideas to get you started:
