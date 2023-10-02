@@ -14,7 +14,7 @@
 </div>
 <br>
 <div align="center">
-  
+
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/macOS-Monterey-F449B7?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey-preview/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
@@ -29,6 +29,8 @@
 - ♟️ Hobbies: Photography & Videography, Vintage Mac Collecting, Designing (Art-related), Cosplay
 - 👍 [Support Me on Ko-fi](https://ko-fi.com/exzenous)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,jenkins,gitlab&perline=2)](https://skillicons.dev)
 <!--
 Here are some ideas to get you started:
 - 🌱 I’m currently interested in ...
