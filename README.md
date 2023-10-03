@@ -29,8 +29,11 @@
 - ♟️ Hobbies: Photography & Videography, Vintage Mac Collecting, Designing (Art-related), Cosplay
 - 👍 [Support Me on Ko-fi](https://ko-fi.com/exzenous)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,jenkins,gitlab&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,tailwindcss&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,linux,docker,aws,azure&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jenkins,gitlab,github,githubactions&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&perline=2)](https://skillicons.dev)
+
 <!--
 Here are some ideas to get you started:
 - 🌱 I’m currently interested in ...
