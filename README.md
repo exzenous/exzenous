@@ -15,13 +15,12 @@
 <br>
 <div align="center">
 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![](https://img.shields.io/badge/macOS-Monterey-F449B7?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey-preview/)
+<!-- [![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11) 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
-  
+-->
+
 </div>
 
 - 🎯 Goals: Great in Cloud Architecting and DevOps, Doing Well in App/Web Development
