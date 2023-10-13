@@ -15,7 +15,8 @@
 <br>
 <div align="center">
 
-<!-- [![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11) 
+<!-- 
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11) 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
