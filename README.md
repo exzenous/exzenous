@@ -1,5 +1,10 @@
-<div>
-  <h3 align="center">Hi there, It's Nathachai<br /><br />✌😄✌</h3><h5 align="center">(aka exzenous)</h5>
+<div align="center">
+<!--   <div>
+    <h3 align="center">Hi there, It's Nathachai<br /><br />✌😄✌</h3><h5 align="center">(aka exzenous)</h5>
+  </div> -->
+  <div>
+    <a href="https://app.daily.dev/exzenous"><img src="https://api.daily.dev/devcards/v2/qV2ksxY2NaNFD6Sro234m.png?type=wide&r=r6u" width="652" alt="Nathachai B.'s Dev Card"/></a>
+  </div>
 </div>
 
 ***
