@@ -1,9 +1,6 @@
 <div align="center">
-<!--   <div>
-    <h3 align="center">Hi there, It's Nathachai<br /><br />✌😄✌</h3><h5 align="center">(aka exzenous)</h5>
-  </div> -->
   <div>
-    <a href="https://app.daily.dev/exzenous"><img src="https://api.daily.dev/devcards/v2/qV2ksxY2NaNFD6Sro234m.png?type=default&r=jep" width="356" alt="Nathachai B.'s Dev Card"/></a>
+    <h3 align="center">Hi there, It's Nathachai<br /><br />✌😄✌</h3><h5 align="center">(aka exzenous)</h5>
   </div>
 </div>
 
@@ -12,20 +9,8 @@
 <!-- Courtesy of Anurag Hazra https://github.com/anuraghazra/github-readme-stats -->
 <!-- Thanks to https://github.com/IgnusG and https://github.com/EYHN/ for the inspiration-->
 
-<div align="center">
-<h3>Thanks for checking out my GitHub!</h3>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=exzenous&show_icons=true&border_radius=15&hide_title=true" />
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exzenous&layout=compact&border_radius=15" />
-</div>
 <br>
 <div align="center">
-
-<!-- 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11) 
-[![](https://img.shields.io/badge/-Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
-
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
--->
 
 </div>
 
